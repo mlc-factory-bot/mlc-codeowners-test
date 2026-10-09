@@ -1,0 +1,7 @@
+# Test of the native route: owner for everything, tooling paths unowned, then exceptions owned again.
+* @mlc-factory-bot
+tests/**
+docs/**
+ops/release/server/**
+tests/secret/** @mlc-factory-bot
+ops/release/server/install.sh @mlc-factory-bot
